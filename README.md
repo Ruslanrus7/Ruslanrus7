@@ -1,8 +1,8 @@
-<h1 align="center">Всем привет, меня зовут Руслан</h1>
+<h1 align="center">Всем привет :wave:, меня зовут Руслан</h1>
 <h3 align="center">Frontend - разработчик</h3>
-<h3 align="center">:man_technologist:О себе</h3>
+<h3 align="center">:man_technologist:О себе:</h3>
 <p align="center">Полтора года назад начал увлекаться веб-разработкой, через несколько месяцев захотел освоить эту профессию. Поступил в Я.Практикум на курс "Веб-разработчик". Последний год я посвятил учебе и практике. В ноябре 2023 окончил курс. На данный момент активно ищу работу по специальности и осваиваю новые технологии в этой сфере.</p>
-<h3 align="center">:hammer_and_wrench: Языки и инструменты</h3>
+<h3 align="center">:hammer_and_wrench: Мой стек:</h3>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40px" height="40px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px">
