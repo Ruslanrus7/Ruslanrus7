@@ -1,5 +1,5 @@
 <h1 align="center">Всем привет, меня зовут Руслан</h1>
-<h3 align="center" color="grey">Frontend - разработчик</h3>
+<h3 align="center" style="color: f1e05a">Frontend - разработчик</h3>
 <p align="center">Полтора года назад начал увлекаться веб-разработкой, через несколько месяцев захотел освоить эту профессию. Поступил в Я.Практикум на курс "Веб-разработчик". Последний год я посвятил учебе и практике. В ноябре 2023 окончил курс. На данный момент активно ищу работу по специальности и осваиваю новые технологии в этой сфере.</p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ruslanrus7)](https://github.com/Ruslanrus7/github-profile-trophy)
 
